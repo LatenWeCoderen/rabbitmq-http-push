@@ -30,3 +30,4 @@ where:
 
 Check image `./app-work-example.png`
 
+![Application test process](https://raw.githubusercontent.com/LatenWeCoderen/rabbitmq-http-push/main/app-work-example.png)
